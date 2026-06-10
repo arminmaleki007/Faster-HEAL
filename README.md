@@ -13,7 +13,7 @@ Our IEEE IV 2026 paper, [Faster-HEAL: An Efficient and Privacy-Preserving Collab
 </p>
 
 <p align="center">
-  <em>Overview of the proposed Faster-HEAL framework for Efficient and Privacy-Preserving Collaborative Perception for heterogeneous collaborative perception.</em>
+  <em>Overview of the proposed Faster-HEAL: An Efficient and Privacy-Preserving Collaborative Perception for heterogeneous collaborative perception.</em>
 </p>
 
 ---
