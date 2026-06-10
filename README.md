@@ -9,7 +9,7 @@ Our IEEE IV 2026 paper, [Faster-HEAL: An Efficient and Privacy-Preserving Collab
 
 **Authors**: Armin Maleki and Hayder Radha
 <p align="center">
-<img width="640" height="273" alt="image" src="https://github.com/user-attachments/assets/88b6ea1e-a462-41dc-b049-b388c6630fc2" />
+<img width="960" height="409.5" alt="image" src="https://github.com/user-attachments/assets/88b6ea1e-a462-41dc-b049-b388c6630fc2" />
 </p>
 
 <p align="center">
