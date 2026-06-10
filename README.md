@@ -5,7 +5,7 @@
 ---
 
 ## 📄 Paper
-Our IEEE IV 2026 paper, [Faster-HEAL: An Efficient and Privacy-Preserving Collaborative Perception Framework for Heterogeneous Autonomous Vehicles](https://arxiv.org/abs/2603.07314), is now available. 
+Our IEEE IV 2026 paper, [Faster-HEAL: An Efficient and Privacy-Preserving Collaborative Perception Framework for Heterogeneous Autonomous Vehicles](https://arxiv.org/abs/2603.07314), is now available on Arxiv. 
 
 **Authors**: Armin Maleki and Hayder Radha
 <p align="center">
