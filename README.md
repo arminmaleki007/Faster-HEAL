@@ -1,5 +1,4 @@
 # Faster-HEAL
-
 **Faster-HEAL: An Efficient and Privacy-Preserving Collaborative Perception Framework for Heterogeneous Autonomous Vehicles** *IEEE IV 2026*
 
 ---
